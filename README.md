@@ -28,9 +28,8 @@ I'm a passionate full-stack developer with 1.5 years of professional experience 
 ### Indeed Web Scraper
 - Created a web scraper to automate job searches on Indeed.
 - Technologies: Node.js, Puppeteer, HTML, Yargs.
+
 [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nadiaBatyk&repo=webScraper-indeed&show_owner=true)](https://github.com/nadiaBatyk/webScraper-indeed)
 
-
-
-
+### Contact me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nadia-batyk)!
